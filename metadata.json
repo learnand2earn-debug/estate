@@ -1,0 +1,6 @@
+{
+  "name": "Galiyat Estates — Luxury Mountain Real Estate",
+  "description": "Discover luxury mountain villas, wooden cottages, alpine apartments, and real estate investment opportunities in Nathia Gali, Dunga Gali, Ayubia, Changla Gali, Khanspur, and Bara Gali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
